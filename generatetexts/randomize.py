@@ -1,0 +1,4 @@
+
+
+def randomize(s):
+    ...
